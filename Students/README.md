@@ -12,7 +12,7 @@ Undergraduate Students
 * Randy Allen Neal, [gmnealusn](https://github.com/gmnealusn)
 * Benito Ramirez
 * Blade Octaviano Roybal
-* George Francis Sullivan
+* George Francis Sullivan [I-Love-Github](https://github.com/I-Love-Github)
 * Kevin Christopher Wilkens
 * Yajie Zeng
 
